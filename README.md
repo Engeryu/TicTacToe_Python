@@ -37,11 +37,8 @@ python --version
 
 1. **Run the main script:**
 
-   Bash
-
-   ```
+   ```bash
    python TicTacToe.py
-
    ```
 2. **Follow the on-screen instructions:** The game will ask for player names and prompt you to enter the coordinates of the square where you want to place your symbol ('X' or 'O').
 3. **Take turns playing** until one player aligns three of their symbols or the board is full (draw).
@@ -50,9 +47,7 @@ python --version
 
 ## 📂 Project Structure
 
-Bash
-
-```
+```bash
 .
 ├── CODE_OF_CONDUCT.md
 ├── LICENSE
